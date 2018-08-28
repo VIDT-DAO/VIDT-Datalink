@@ -9,4 +9,4 @@ Version 36, the live version, is published at https://etherscan.io/token/0x445f5
 
 More information about V-ID is available at https://www.v-id.org, the token ICO website is https://token.v-id.org.
 
-The V-IDT-commented.nl is the exact same version, but with explanatory comments.
+The V-IDT-commented.sol is the exact same version, but with explanatory comments.
