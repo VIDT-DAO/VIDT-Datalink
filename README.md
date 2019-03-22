@@ -12,6 +12,6 @@ Our validation service is in V1 Alpha since March 2019. Verification at https://
 
 *IMPORTANT NOTES*
 
-- As our smart contract is on the blockchain since 18-08-2018 this repository will not be updated.
+- As our smart contract is on the blockchain since 18-08-2018, this repository is not expected to be updated.
 - V-ID sourcecode is proprietary property and will not be made public. 
 - V-ID leases an unrestricted license to deploy the WIDIDI M16 platform.
