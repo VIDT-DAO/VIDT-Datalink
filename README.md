@@ -10,7 +10,7 @@ Version 36, the live version, is published at https://etherscan.io/token/0x445f5
 More information about V-ID is available at https://about.v-id.org, the token ICO website is https://token.v-id.org.
 Our validation service is in V1 Alpha since March 2019. Verification at https://www.v-id.org is in V1 Alpha since December 2018.
 
-**IMPORTANT NOTES
+* IMPORTANT NOTES *
 
 - As our smart contract is on the blockchain since 18-08-2018 this repository will not be updated.
 - V-ID sourcecode is proprietary property and will not be made public. 
