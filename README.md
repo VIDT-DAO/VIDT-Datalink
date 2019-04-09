@@ -1,7 +1,7 @@
 # V-ID-Token
 V-ID Blockchain Validation Token
 
-This is the complete source code of the V-ID token smart contract, issued for saving data in the Ethereum blockchain and for processing micro payments.
+This is the complete source code of the V-ID token smart contract, issued for saving data in the Ethereum blockchain and for processing micro payments that require KYC by wallet address.
 
 The V-ID token is able to make use of all 3 tiers of data processing in this blockchain, using the transaction, state en receipt tries.
 
