@@ -6,8 +6,8 @@ This is the complete source code of the V-ID token smart contract, issued for sa
 
 The V-ID token is able to make use of all 3 tiers of data processing in this blockchain, using the transaction, state en receipt tries.
 
-Version 36 is published at https://etherscan.io/token/0x445f51299ef3307dbd75036dd896565f5b4bf7a5 and available here as VIDT.sol. 
-The VIDT-commented.sol is the exact same version, supplemented with explanatory comments.
+Version 36 is published at https://etherscan.io/token/0x445f51299ef3307dbd75036dd896565f5b4bf7a5 and available here as VIDT OLD.sol. 
+The VIDT-commented OLD.sol is the exact same version, supplemented with explanatory comments.
 
 UPDATE October 4th 2020
 
