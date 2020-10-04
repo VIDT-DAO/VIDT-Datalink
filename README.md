@@ -9,7 +9,7 @@ The V-ID token is able to make use of all 3 tiers of data processing in this blo
 Version 36 is published at https://etherscan.io/token/0x445f51299ef3307dbd75036dd896565f5b4bf7a5 and available here as VIDT OLD.sol. 
 The VIDT-commented OLD.sol is the exact same version, supplemented with explanatory comments.
 
-UPDATE October 4th 2020
+*UPDATE October 4th 2020*
 
 In response to the KuCoin security incident, a new smart contract was deployed. The old contract has been paused and can no longer be used.
 The ONLY VALID Ethereum smart contract is published at https://etherscan.io/token/0xfef4185594457050cc9c23980d301908fe057bb1 and available here as VIDT-NEW.sol
