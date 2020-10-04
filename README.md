@@ -12,7 +12,7 @@ The VIDT-commented OLD.sol is the exact same version, supplemented with explanat
 *UPDATE October 4th 2020*
 
 In response to the KuCoin security incident, a new smart contract was deployed. The old contract has been paused and can no longer be used.
-The ONLY VALID Ethereum smart contract is published at https://etherscan.io/token/0xfef4185594457050cc9c23980d301908fe057bb1 and available here as VIDT-NEW.sol
+The ONLY VALID Ethereum smart contract is published at https://etherscan.io/token/0xfef4185594457050cc9c23980d301908fe057bb1 and available here as VIDT.sol
 
 More information about V-ID is available at https://about.v-id.org, the token ICO website is https://token.v-id.org.
 
